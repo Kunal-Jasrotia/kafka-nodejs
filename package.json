@@ -1,0 +1,11 @@
+{
+  "name": "kafka-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kunal-6421/kafka-nodejs.git",
+  "author": "kunal-6421 <123140152+kunal-6421@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
